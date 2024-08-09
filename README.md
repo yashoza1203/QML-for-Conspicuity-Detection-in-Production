@@ -37,8 +37,16 @@ Team Member 1:
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+Identifying weld defects is a critical objective in the field of non-destructive testing (NDT) of welds. In this work, we compare the performance of a traditional Convolutional Neural Network (CNN) with that of a CNN enhanced by quantum methods, aiming to evaluate the effectiveness of quantum techniques in improving weld defect identification.
+
+A key aspect of this comparison is the use of Explainable AI (XAI), which plays a crucial role in understanding and interpreting the models' decision-making processes. By employing Gradient-weighted Class Activation Mapping (Grad-CAM) as an XAI tool, we provide visual explanations that reveal how each model identifies defects. The Grad-CAM results clearly demonstrate the superiority of quantum methods over classical approaches, offering deeper insights into why these advanced techniques lead to more accurate and reliable weld defect detection.
+
+This explainability is essential for validating and trusting the results, especially when comparing the capabilities of AI and quantum techniques in critical applications like NDT.
+
+Grad-CAM helped me to make a better comparison and understand the effectiveness and necessity of quantum based AI methods on real world cases. 
+
+Presentation can be Found [here](https://docs.google.com/presentation/d/1aTdBJSc84hfsuX66XHPHeONdJjAcB-zS/edit?usp=sharing&ouid=100827771309434765460&rtpof=true&sd=true)
+
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
