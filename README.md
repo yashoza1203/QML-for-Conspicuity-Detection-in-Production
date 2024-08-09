@@ -33,14 +33,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
+ - Full Name: Yash Oza
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
-
-Team Member 2:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
-
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
