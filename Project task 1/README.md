@@ -1,4 +1,4 @@
-This Task consists of three code books provided by Pennylane.
+This Task consists of three code books provided by Pennylane. I have performed all the tutorials from these codebooks successfully. You can find the required codebooks and their tutorials as follows:
 
 1. Codebook 1 - [Introduction to Quantum Computing](https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/tree/main/Project%20task%201/Introduction%20to%20Quantum%20Computing)
 
