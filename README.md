@@ -46,7 +46,7 @@ Grad-CAM helped me to make a better comparison and understand the effectiveness 
 
 The file for best model can be found [here](https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%205/Final%20Experiments/conspicuity-det1-qnn-20eps.ipynb)
 
-The Presentation deck can be Found [here](https://docs.google.com/presentation/d/1aTdBJSc84hfsuX66XHPHeONdJjAcB-zS/edit?usp=sharing&ouid=100827771309434765460&rtpof=true&sd=true)
+The Presentation deck can be found [here](https://docs.google.com/presentation/d/1aTdBJSc84hfsuX66XHPHeONdJjAcB-zS/edit?usp=sharing&ouid=100827771309434765460&rtpof=true&sd=true)
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
