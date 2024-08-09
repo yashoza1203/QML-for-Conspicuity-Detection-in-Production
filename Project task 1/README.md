@@ -26,13 +26,13 @@ This Task consists of three code books provided by Pennylane. I have performed a
 
 3. Codebook 3 - [Circuits with Many Qubits](https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/tree/main/Project%20task%201/Circuits%20with%20Many%20Qubits)
    
-3.1 [Multi-Qubit Systems]( https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%201/Circuits%20with%20Many%20Qubits/Multi-Qubit%20Systems_pennylane.ipynb)
-
-3.2 [All Tied Up]( https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%201/Circuits%20with%20Many%20Qubits/All%20Tied%20Up_Pennylane.ipynb)
-
-3.3 [We've Got It Under Control]( https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%201/Circuits%20with%20Many%20Qubits/We_ve%20Got%20It%20Under%20Control_pennylane.ipynb)
-
-3.4 [Multi-Qubit Gate Challenge]( https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%201/Circuits%20with%20Many%20Qubits/Multi-Qubit%20Gate%20Challenge_pennylane.ipynb)
+	3.1 [Multi-Qubit Systems]( https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%201/Circuits%20with%20Many%20Qubits/Multi-Qubit%20Systems_pennylane.ipynb)
+	
+	3.2 [All Tied Up]( https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%201/Circuits%20with%20Many%20Qubits/All%20Tied%20Up_Pennylane.ipynb)
+	
+	3.3 [We've Got It Under Control]( https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%201/Circuits%20with%20Many%20Qubits/We_ve%20Got%20It%20Under%20Control_pennylane.ipynb)
+	
+	3.4 [Multi-Qubit Gate Challenge]( https://github.com/yashoza1203/QML-for-Conspicuity-Detection-in-Production/blob/main/Project%20task%201/Circuits%20with%20Many%20Qubits/Multi-Qubit%20Gate%20Challenge_pennylane.ipynb)
 
 
 
